@@ -14,6 +14,8 @@ This Polarion® ALM™ extension provides the ability to do code reviews through
 - Polarion® ALM™ 2016 or newer
 - Java 8 or newer
 
+Making a change
+
 ## Installation
 
 1. Download the packaged extension from http://extensions.polarion.com/extensions/235-code-review-in-polarion
